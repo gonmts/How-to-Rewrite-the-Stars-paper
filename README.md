@@ -23,7 +23,7 @@ The results show that the proposed method can be successfully used to match frui
 
 # Video
 
-[![Watch the video](./img/video-thumbnail.jpg)](https://anubis-sipg.isr.tecnico.ulisboa.pt/index.php/s/GfBDsMDYqKQXSFP)
+[![Watch the video](./img/video_thumbnail.jpg)](https://anubis-sipg.isr.tecnico.ulisboa.pt/index.php/s/GfBDsMDYqKQXSFP)
 
 # Dataset
 
